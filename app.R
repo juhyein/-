@@ -1,4 +1,3 @@
-setwd("C:/Users/JU HYE IN/Desktop/프로젝트/shiny")
 load("tutoring.RData")
 load("entire.RData")
 
